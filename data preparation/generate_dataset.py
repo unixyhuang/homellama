@@ -4,7 +4,7 @@ import json
 from tqdm import tqdm
 
 # Set up OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "***"
 
 # Initialize OpenAI client
 client = OpenAI()
