@@ -7,7 +7,7 @@ from transformers import BitsAndBytesConfig
 from huggingface_hub import login
 
 # Login to Hugging Face
-login("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")
+login("***")
 
 # Function to measure memory usage
 def memory_usage_psutil():
