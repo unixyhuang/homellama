@@ -6,7 +6,7 @@ from huggingface_hub import login as hf_login
 import torch.nn.functional as F
 
 # Hugging Face login
-hf_token = "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"
+hf_token = "***"
 hf_login(hf_token)
 
 # Parameters
