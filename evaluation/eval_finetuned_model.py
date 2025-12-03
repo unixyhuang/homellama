@@ -8,7 +8,7 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from huggingface_hub import login
 
 # Login to Hugging Face
-login("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")
+login("***")
 
 # Load the dataset
 dataset = datasets.load_dataset("unixyhuang/SmartHome-Device-QA")
